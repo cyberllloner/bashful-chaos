@@ -12,28 +12,33 @@ Small, funny, and readable—because chaos doesn't have to be complicated.
 
 </div>
 
-## ✨ Collection
-
-- [`hello.sh`](hello.sh) — A cheerful greeting.
-- [`coin.sh`](coin.sh) — Makes an important decision for you.
-
 ## 🧰 Contributing
 
 Got a tiny script with a big personality? We would love to see it.
 
 1. **Fork** this repository.
-2. **Create** a small, readable Bash script.
-3. **Test** it in a safe environment.
-4. **Add** it to the collection list above.
-5. **Open** a pull request.
+2. **Choose** a unique script name that clearly describes its purpose.
+3. **Create** one single-file Bash script—no multi-file submissions.
+4. **Test** it in a safe environment.
+5. **Add** a short entry for the script to the collection list.
+6. **Open** a pull request.
 
 Please keep submissions:
 
 - 🧩 Small and focused
 - 📖 Easy to read
+- 🏷️ Named uniquely and not redundantly
+- 📄 Contained in a single file
 - 😂 Friendly and funny
 - 🔒 Harmless and safe
 - 🐚 Compatible with common Bash environments
+
+Before submitting, check that your script name:
+
+- Is not already used
+- Is not a duplicate or unnecessary variation of another script
+- Describes a distinct idea or behavior
+- Does not require additional source files
 
 ## ⚖️ License
 
