@@ -12,14 +12,10 @@ Small, funny, and readable—because chaos doesn't have to be complicated.
 
 </div>
 
-## ✨ The Collection
+## ✨ Collection
 
-> A growing collection of tiny scripts that do one silly thing and do it with style.
-
-| Script | What it does | Run it |
-| :--- | :--- | :--- |
-| [`hello.sh`](hello.sh) | Greets the world—or at least your terminal—with unreasonable enthusiasm. | `bash hello.sh` |
-| [`coin.sh`](coin.sh) | Outsources your tiny decisions to the ancient art of coin flipping. | `bash coin.sh` |
+- [`hello.sh`](hello.sh) — A cheerful greeting.
+- [`coin.sh`](coin.sh) — Makes an important decision for you.
 
 ## 🚀 Quick Start
 
@@ -48,7 +44,7 @@ Got a tiny script with a big personality? We would love to see it.
 1. **Fork** this repository.
 2. **Create** a small, readable Bash script.
 3. **Test** it in a safe environment.
-4. **Add** it to the collection table above.
+4. **Add** it to the collection list above.
 5. **Open** a pull request.
 
 Please keep submissions:
