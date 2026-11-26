@@ -12,10 +12,8 @@
 
 ## 🧩 Scripts
 
-| Script | Description |
-| --- | --- |
-| `hello-chaos.sh` | Prints a cheerful, slightly chaotic greeting. |
-| `random-tip.sh` | Shares a random tiny tip for your terminal. |
+- `hello-chaos.sh` — Prints a cheerful, slightly chaotic greeting.
+- `random-tip.sh` — Shares a random tiny tip for your terminal.
 
 ## 🧰 Contributing
 
