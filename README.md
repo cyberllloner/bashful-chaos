@@ -19,7 +19,9 @@
 
 ## 🧰 Contributing
 
-Got a tiny script with a big personality? We would love to see it.
+This is a personal collection of funny, tiny Bash scripts. It isn’t intended to grow into a large showcase or exhaustive script library—just a small, readable place for experiments and useful silliness.
+
+Got a tiny script with a big personality? Contributions are welcome. It doesn’t need to become a huge collection—small ideas fit perfectly here.
 
 1. Fork this repository.
 2. Choose a unique, descriptive script name.
