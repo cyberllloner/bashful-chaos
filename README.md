@@ -37,7 +37,11 @@ Submit your own work when possible. For adapted work, confirm the license allows
 ```
 
 5. Test it in a safe environment.
-6. Open a pull request.
+6. Open a pull request with this title format:
+
+```text
+script-name.sh: short one-sentence description of the script.
+```
 
 Before submitting, check that:
 
