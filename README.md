@@ -37,8 +37,7 @@ Please contribute scripts you created yourself whenever possible. If you submit 
 ```
 
 5. Test it in a safe environment.
-6. Add it to the collection list.
-7. Open a pull request.
+6. Open a pull request.
 
 Before submitting, ensure your script:
 
