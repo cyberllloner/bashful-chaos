@@ -16,11 +16,9 @@
 |---|---|
 | humanboot.sh | Fake boot for a human. |
 
-Scripts should be original, simple, small, and meaningfully different from existing scripts.
-
 ## 🤝 Contributing
 
-Submit small, readable Bash scripts that solve funny or unnecessary problems.
+⚠️ Scripts should be original, simple, small, and meaningfully different from existing scripts.
 
 Submit your own work when possible. For adapted work, confirm the license allows reuse and credit the original creator or maintainer.
 
@@ -43,7 +41,7 @@ Submit your own work when possible. For adapted work, confirm the license allows
 script-name.sh: short one-sentence description of the script.
 ```
 
-Before submitting, check that:
+⚠️ Before submitting, check that:
 
 - The idea and script are original and distinct from existing work.
 - The script is small, focused, and easy to read.
