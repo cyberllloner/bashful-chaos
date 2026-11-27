@@ -16,20 +16,18 @@
 |---|---|
 | humanboot.sh | Fake boot for a human. |
 
-Scripts and ideas should be original and meaningfully distinct—not just from other entries in this repository, but from scripts and ideas already available elsewhere. Simple scripts are welcome; avoid duplicates and near-duplicates.
+Scripts should be original, simple, small, and meaningfully different from existing scripts.
 
 ## 🤝 Contributing
 
-This repository is for funny, tiny Bash scripts: small, readable solutions to delightfully unnecessary problems.
+Submit small, readable Bash scripts that solve funny or unnecessary problems.
 
-Got a tiny script with a big personality? Contributions are welcome, provided the script and its idea are original and meaningfully distinct from existing work both in this collection and elsewhere. Simple is fine; duplicate ideas are not.
+Submit your own work when possible. For adapted work, confirm the license allows reuse and credit the original creator or maintainer.
 
-Please contribute scripts you created yourself whenever possible. If you submit or adapt someone else's script, make sure its license permits it and clearly credit its real creator or maintainer.
-
-1. Fork this repository.
-2. Choose a unique, descriptive script name and make a good-faith effort to ensure its idea is original and meaningfully different from scripts already available elsewhere, as well as from scripts in this repository.
-3. Create one small, readable Bash script.
-4. Add an attribution comment header at the very top, immediately after the Bash shebang. For your own script, use your name and GitHub profile. For someone else's script, use the original creator's or maintainer's name and GitHub profile.
+1. Fork the repository.
+2. Choose a unique, descriptive name.
+3. Add one small Bash script.
+4. Add an attribution header below the shebang:
 
 ```bash
 #!/bin/bash
@@ -41,15 +39,13 @@ Please contribute scripts you created yourself whenever possible. If you submit 
 5. Test it in a safe environment.
 6. Open a pull request.
 
-Before opening a pull request, ensure your submission meets these requirements:
+Before submitting, check that:
 
-- The script and its idea are original and meaningfully distinct from existing work elsewhere, as well as from entries in this repository—even if the script is simple
-- The script is small, focused, and easy to read
-- The script has a unique, descriptive name
-- The correct author or original creator/maintainer is credited with their GitHub profile
-- The script does not require additional files
-- The script is friendly and harmless
-- The script works in common Bash environments
+- The idea and script are original and distinct from existing work.
+- The script is small, focused, and easy to read.
+- It uses one file and works in common Bash environments.
+- It is friendly and harmless.
+- It includes correct attribution to the author or original creator.
 
 ## 📜 License
 
