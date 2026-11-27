@@ -16,18 +16,20 @@
 |---|---|
 | humanboot.sh | Fake boot for a human. |
 
+Every script and idea in this repository should be unique. Simple scripts are welcome, but duplicates or near-duplicates are not.
+
 ## 🤝 Contributing
 
-This is a personal collection of funny, tiny Bash scripts. It isn't intended to grow into a large showcase or exhaustive script library—just a small, readable place for experiments and useful ideas.
+This repository is for funny, tiny Bash scripts: small, readable solutions to delightfully unnecessary problems.
 
-Got a tiny script with a big personality? Contributions are welcome. It doesn't need to become a huge collection—small ideas fit perfectly here.
+Got a tiny script with a big personality? Contributions are welcome, as long as the script or idea is unique to this collection. Simple is fine; duplicate ideas are not.
 
-Please contribute scripts you created yourself whenever possible. If you submit or adapt someone else's script, make sure it is permitted by its license and clearly credit its real creator or maintainer by name and link to their GitHub profile. Don't claim someone else's work as your own.
+Please contribute scripts you created yourself whenever possible. If you submit or adapt someone else's script, make sure its license permits it and clearly credit its real creator or maintainer.
 
 1. Fork this repository.
-2. Choose a unique, descriptive script name.
+2. Choose a unique, descriptive script name and make sure the script's idea is not already represented here.
 3. Create one small, readable Bash script.
-4. Add an attribution comment header at the very top, immediately after the Bash shebang. For your own script, use your name and GitHub profile. For someone else's script, use the original creator's or maintainer's real name and profile:
+4. Add an attribution comment header at the very top, immediately after the Bash shebang. For your own script, use your name and GitHub profile. For someone else's script, use the original creator's or maintainer's name and GitHub profile.
 
 ```bash
 #!/bin/bash
@@ -39,15 +41,15 @@ Please contribute scripts you created yourself whenever possible. If you submit 
 5. Test it in a safe environment.
 6. Open a pull request.
 
-Before submitting, ensure your script:
+Before opening a pull request, ensure your submission meets these requirements:
 
-- Is small and focused
-- Is easy to read
-- Has a name that is not already used
-- Credits the correct author or original creator/maintainer, with their GitHub profile
-- Does not require additional files
-- Is friendly and harmless
-- Works in common Bash environments
+- The script and its idea are unique to this repository, even if the script is simple
+- The script is small, focused, and easy to read
+- The script has a unique, descriptive name
+- The correct author or original creator/maintainer is credited with their GitHub profile
+- The script does not require additional files
+- The script is friendly and harmless
+- The script works in common Bash environments
 
 ## 📜 License
 
