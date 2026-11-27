@@ -16,18 +16,18 @@
 |---|---|
 | humanboot.sh | Fake boot for a human. |
 
-Every script and idea in this repository should be unique. Simple scripts are welcome, but duplicates or near-duplicates are not.
+Scripts and ideas should be original and meaningfully distinct—not just from other entries in this repository, but from scripts and ideas already available elsewhere. Simple scripts are welcome; avoid duplicates and near-duplicates.
 
 ## 🤝 Contributing
 
 This repository is for funny, tiny Bash scripts: small, readable solutions to delightfully unnecessary problems.
 
-Got a tiny script with a big personality? Contributions are welcome, as long as the script or idea is unique to this collection. Simple is fine; duplicate ideas are not.
+Got a tiny script with a big personality? Contributions are welcome, provided the script and its idea are original and meaningfully distinct from existing work both in this collection and elsewhere. Simple is fine; duplicate ideas are not.
 
 Please contribute scripts you created yourself whenever possible. If you submit or adapt someone else's script, make sure its license permits it and clearly credit its real creator or maintainer.
 
 1. Fork this repository.
-2. Choose a unique, descriptive script name and make sure the script's idea is not already represented here.
+2. Choose a unique, descriptive script name and make a good-faith effort to ensure its idea is original and meaningfully different from scripts already available elsewhere, as well as from scripts in this repository.
 3. Create one small, readable Bash script.
 4. Add an attribution comment header at the very top, immediately after the Bash shebang. For your own script, use your name and GitHub profile. For someone else's script, use the original creator's or maintainer's name and GitHub profile.
 
@@ -43,7 +43,7 @@ Please contribute scripts you created yourself whenever possible. If you submit 
 
 Before opening a pull request, ensure your submission meets these requirements:
 
-- The script and its idea are unique to this repository, even if the script is simple
+- The script and its idea are original and meaningfully distinct from existing work elsewhere, as well as from entries in this repository—even if the script is simple
 - The script is small, focused, and easy to read
 - The script has a unique, descriptive name
 - The correct author or original creator/maintainer is credited with their GitHub profile
