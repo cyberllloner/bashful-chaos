@@ -17,14 +17,16 @@
 
 ## 🧰 Contributing
 
-This is a personal collection of funny, tiny Bash scripts. It isn’t intended to grow into a large showcase or exhaustive script library—just a small, readable place for experiments and useful oddities.
+This is a personal collection of funny, tiny Bash scripts. It isn’t intended to grow into a large showcase or exhaustive script library—just a small, readable place for experiments and useful ideas.
 
 Got a tiny script with a big personality? Contributions are welcome. It doesn’t need to become a huge collection—small ideas fit perfectly here.
+
+Please contribute scripts you created yourself whenever possible. If you submit or adapt someone else’s script, make sure it is permitted by its license and clearly credit its real creator or maintainer by name and link to their GitHub profile. Don’t claim someone else’s work as your own.
 
 1. Fork this repository.
 2. Choose a unique, descriptive script name.
 3. Create one small, readable Bash script.
-4. Add your name and GitHub profile as comments at the very top, immediately after the Bash shebang:
+4. Add an attribution comment header at the very top, immediately after the Bash shebang. For your own script, use your name and GitHub profile. For someone else’s script, use the original creator’s or maintainer’s real name and profile:
 
 ```bash
 #!/bin/bash
@@ -42,7 +44,7 @@ Before submitting, ensure your script:
 - Is small and focused
 - Is easy to read
 - Has a name that is not already used
-- Includes the author and GitHub profile comment header at the top
+- Credits the correct author or original creator/maintainer, with their GitHub profile
 - Does not require additional files
 - Is friendly and harmless
 - Works in common Bash environments
