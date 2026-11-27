@@ -17,22 +17,32 @@
 
 ## 🧰 Contributing
 
-This is a personal collection of funny, tiny Bash scripts. It isn’t intended to grow into a large showcase or exhaustive script library—just a small, readable place for experiments and useful silliness.
+This is a personal collection of funny, tiny Bash scripts. It isn’t intended to grow into a large showcase or exhaustive script library—just a small, readable place for experiments and useful oddities.
 
 Got a tiny script with a big personality? Contributions are welcome. It doesn’t need to become a huge collection—small ideas fit perfectly here.
 
 1. Fork this repository.
 2. Choose a unique, descriptive script name.
 3. Create one small, readable Bash script.
-4. Test it in a safe environment.
-5. Add it to the collection list.
-6. Open a pull request.
+4. Add your name and GitHub profile as comments at the very top, immediately after the Bash shebang:
+
+```bash
+#!/bin/bash
+
+# Author: Your Name
+# GitHub: https://github.com/your-username
+```
+
+5. Test it in a safe environment.
+6. Add it to the collection list.
+7. Open a pull request.
 
 Before submitting, ensure your script:
 
 - Is small and focused
 - Is easy to read
 - Has a name that is not already used
+- Includes the author and GitHub profile comment header at the top
 - Does not require additional files
 - Is friendly and harmless
 - Works in common Bash environments
