@@ -2,7 +2,7 @@
 
 # 🐚 bashful-chaos
 
-**Tiny Bash scripts for delightfully unnecessary problems.**
+**Fun Bash scripts: small, shared, and community-made; not a personal archive or growing collection.**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge&logo=gnu&logoColor=white)](LICENSE)
 [![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
