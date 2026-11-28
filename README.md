@@ -34,8 +34,8 @@ The name is a play on two halves of the command-line spirit:
 
 | Word | What It Means Here |
 | :--- | :--- |
-| **Bashful** | A nod to **Bash** and the modest, unpretentious charm of small scripts—no heavy frameworks, no bloated dependencies, just pure shell fun. |
-| **Chaos** | The unexpected joy of terminal quirks, fake system boots, ASCII surprises, and harmless mischief right inside your console. |
+| **Bashful** | A play on **Bash** and the modest, lighthearted nature of small scripts—simple, unassuming, and built purely for fun rather than serious work. |
+| **Chaos** | The playful unpredictability of humorous outputs and unexpected surprises that bring a little personality to your terminal. |
 
 Rather than a personal dotfiles dump or a massive utility suite, **`bashful-chaos` is an open community playground**—a place where anyone can drop in a clever, bite-sized script and make someone else's terminal a little more entertaining.
 
